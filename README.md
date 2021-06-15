@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋, I'm Guilherme Casali</h1>
 
 ```javascript
-  var user = {
+  let user = {
     name: 'Guilherme Lucca Casali',
     age: 22,
     city: 'Porto Alegre, RS',
