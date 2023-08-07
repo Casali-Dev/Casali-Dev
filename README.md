@@ -7,7 +7,7 @@
 ```javascript
   let user = {
     name: 'Guilherme Lucca Casali',
-    age: 24,
+    age: 25,
     city: 'Porto Alegre, RS',
     learning: ['NodeJS', 'React', 'React Native'],
     hobby: 'I love game dev, animes and cooking',
