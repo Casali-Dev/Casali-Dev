@@ -9,9 +9,9 @@
     name: 'Guilherme Lucca Casali',
     age: 25,
     city: 'Porto Alegre, RS',
-    learning: ['NodeJS', 'React', 'React Native'],
-    hobby: 'I love game dev, animes and cooking',
-    drinking: 'Coffee'
+    workingOn: ['NextJS', 'React', 'NodeJS'],
+    hobbies: 'I love game dev, animes, cooking and going to the gym! 💪',
+    drinking: 'Water'
   };
   
   console.log("Hope you have a nice day!");
